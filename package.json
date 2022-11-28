@@ -1,0 +1,7 @@
+{
+  "name": "ts-codecompletion",
+  "version": "1.0.0",
+  "dependencies": {
+    "@eclipse-scout/core": "23.1.0-alpha-02"
+  }
+}
